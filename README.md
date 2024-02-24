@@ -5,8 +5,8 @@
 ### 1. Pattern: Sliding Window
 
 1. Introduction
-2. Maximum Sum Subarray of Size K (easy)
-3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ)
+2. Maximum Sum Subarray of Size K (easy) : DONE
+3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ) : DONE
 4. Longest Substring with K Distinct Characters (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80)
 5. Fruits into Baskets (medium) [LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
 6. No-repeat Substring (hard) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -20,9 +20,9 @@
 ### 2. Pattern: Two Pointers
 
 1. Introduction
-2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/)
-3. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) [LeetCode](https://leetcode.com/problems/duplicate-zeros/)
-4. Squaring a Sorted Array (easy) [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
+2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/) : DONE
+3. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode] : DONE (https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) [LeetCode](https://leetcode.com/problems/duplicate-zeros/)
+4. Squaring a Sorted Array (easy) [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) : DONE
 5. Triplet Sum to Zero (medium) [LeetCode](https://leetcode.com/problems/3sum/)
 6. Triplet Sum Close to Target (medium) [LeetCode](https://leetcode.com/problems/3sum-closest/)
 7. Triplets with Smaller Sum (medium) [LintCode](https://www.lintcode.com/problem/3sum-smaller/description)
