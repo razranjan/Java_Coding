@@ -35,8 +35,8 @@
 ### 3. Pattern: Fast & Slow pointers
 
 1. Introduction [emre.me](https://emre.me/coding-patterns/fast-slow-pointers/)
-2. LinkedList Cycle (easy) [Leetcode](https://leetcode.com/problems/linked-list-cycle/)
-3. Start of LinkedList Cycle (medium) [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)
+2. LinkedList Cycle (easy) [Leetcode](https://leetcode.com/problems/linked-list-cycle/)  : DONE
+3. Start of LinkedList Cycle (medium) [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) : DONE
 4. Happy Number (medium) [Leetcode](https://leetcode.com/problems/happy-number/)
 5. Middle of the LinkedList (easy) [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)
 6. Problem Challenge 1 - Palindrome LinkedList (medium) [Leetcode](https://leetcode.com/problems/palindrome-linked-list/)
@@ -57,11 +57,11 @@
 ### 5. Pattern: Cyclic Sort
 
 1. Introduction [emre.me](https://emre.me/coding-patterns/cyclic-sort/)
-2. Cyclic Sort (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/sort-an-array-which-contain-1-to-n-values-in-on-using-cycle-sort/)
-3. Find the Missing Number (easy) [Leetcode](https://leetcode.com/problems/missing-number/)
-4. Find all Missing Numbers (easy) [Leetcode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-5. Find the Duplicate Number (easy) [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/)
-6. Find all Duplicate Numbers (easy) [Leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+2. Cyclic Sort (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/sort-an-array-which-contain-1-to-n-values-in-on-using-cycle-sort/) DONE
+3. Find the Missing Number (easy) [Leetcode](https://leetcode.com/problems/missing-number/)  DONE
+4. Find all Missing Numbers (easy) [Leetcode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) DONE
+5. Find the Duplicate Number (easy) [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) DONE
+6. Find all Duplicate Numbers (easy) [Leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) DONE
 7. Problem Challenge 1 - Find the Corrupt Pair (easy) [TheCodingSimplified](https://thecodingsimplified.com/find-currupt-pair/)
 8. Problem Challenge 2 - Find the Smallest Missing Positive Number (medium) [Leetcode](https://leetcode.com/problems/first-missing-positive/)
 9. Problem Challenge 3 - Find the First K Missing Positive Numbers (hard) [TheCodingSimplified](https://thecodingsimplified.com/find-the-first-k-missing-positive-number/)
