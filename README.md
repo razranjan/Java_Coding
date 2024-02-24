@@ -69,8 +69,8 @@
 ### 6. Pattern: In-place Reversal of a LinkedList
 
 1. Introduction [emre.me](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
-2. Reverse a LinkedList (easy) [Leetcode](https://leetcode.com/problems/reverse-linked-list/)
-3. Reverse a Sub-list (medium) [Leetcode](https://leetcode.com/problems/reverse-linked-list-ii/)
+2. Reverse a LinkedList (easy) [Leetcode](https://leetcode.com/problems/reverse-linked-list/) DONE
+3. Reverse a Sub-list (medium) [Leetcode](https://leetcode.com/problems/reverse-linked-list-ii/) DONE
 4. Reverse every K-element Sub-list (medium) [Leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 5. Problem Challenge 1 - Reverse alternating K-element Sub-list (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/)
 6. Problem Challenge 2 - Rotate a LinkedList (medium) [Leetcode](https://leetcode.com/problems/rotate-list/)
@@ -78,14 +78,14 @@
 ### 7. Pattern: Tree Breadth First Search
 
 1. Introduction
-2. Binary Tree Level Order Traversal (easy) [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+2. Binary Tree Level Order Traversal (easy) [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) : DONE
 3. Reverse Level Order Traversal (easy) [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 4. Zigzag Traversal (medium) [Leetcode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-5. Level Averages in a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
-6. Minimum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+5. Level Averages in a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/average-of-levels-in-binary-tree/) DONE
+6. Minimum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) 
 7. Maximum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-8. Level Order Successor (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/level-order-successor-of-a-node-in-binary-tree/)
-9. Connect Level Order Siblings (medium) [Leetcode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+8. Level Order Successor (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/level-order-successor-of-a-node-in-binary-tree/) DONE
+9. Connect Level Order Siblings (medium) [Leetcode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) DONE
 10. Problem Challenge 1 - Connect All Level Order Siblings (medium) [Educative](https://www.educative.io/m/connect-all-siblings)
 11. Problem Challenge 2 - Right View of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/)
 
